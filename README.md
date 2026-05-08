@@ -18,6 +18,6 @@ pip install taichi numpy
 
 Run each solver from the project directory:
 
-python wcsph.py
-python iisph.py
-python dfsph.py
+python wcsph.py  
+python iisph.py  
+python dfsph.py  
